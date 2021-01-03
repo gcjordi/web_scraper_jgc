@@ -7,6 +7,6 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-This section is to tell people how to report a vulnerability.
+This section is to tell people how to report a vulnerability:
 
 eMail: info@jordigarcia.eu
